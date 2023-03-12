@@ -7,14 +7,14 @@
 | Day 3  | :star: :star: | Javascript |
 | Day 4  | :star: :star: | Javascript |
 | Day 5  | :star: :star: | Javascript |
-| Day 6  |               |            |
-| Day 7  |               |            |
-| Day 8  |               |            |
-| Day 9  |               |            |
-| Day 10 |               |            |
+| Day 6  | :star: :star: | Javascript |
+| Day 7  | :star: :star: | Javascript |
+| Day 8  | :star: :star: | Javascript |
+| Day 9  | :star: :star: | Javascript |
+| Day 10 | :star: :star: | Javascript |
 | Day 11 |               |            |
 | Day 12 |               |            |
-| Day 13 |               |            |
+| Day 13 | :star: :star: | Javascript |
 | Day 14 |               |            |
 | Day 15 |               |            |
 | Day 16 |               |            |
