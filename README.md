@@ -3,7 +3,7 @@
 | Day    | Stars         | Languages  |
 | ------ | ------------- | ---------- |
 | Day 1  | :star: :star: | Javascript |
-| Day 2  | | |
+| Day 2  | :star: :star: | Javascript |
 | Day 3  | | |
 | Day 4  | | |
 | Day 5  | | |
