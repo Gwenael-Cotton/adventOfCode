@@ -4,7 +4,7 @@
 | ------ | ------------- | ---------- |
 | Day 1  | :star: :star: | Javascript |
 | Day 2  | :star: :star: | Javascript |
-| Day 3  | | |
+| Day 3  | :star: :star: | Javascript |
 | Day 4  | | |
 | Day 5  | | |
 | Day 6  | | |
