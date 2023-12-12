@@ -40,4 +40,24 @@ const filterGames = () => {
 
 
 filterGames();
+// const filterGames = () => {
+//     for (let game of games) {
+//         let [blue, red, green] = [0, 0, 0];
+//         for (let subset of game.flatMap(item => item.split(','))) {
+//             let [value, color] = subset.replace(/,/g, '').trim().split(' ');
+//             value = Number(value);
+//             if (color.startsWith('blue') && value > blue) {
+//                 console.log(color)
+//                 blue = value;
+//             } else if (color.startsWith('red') && value > red) {
+//                 red = value;
+//             } else if (color.startsWith('green') && value > green) {
+//                 green = value;
+//             }
+//         }
+//         result.push(blue * red * green);
+//     }
+// };
+
+// filterGames();
 console.log(result.reduce((acc, curr) => acc + curr))
