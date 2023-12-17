@@ -7,7 +7,7 @@
 | Day 3  | :star: :star: | Javascript |
 | Day 4  | :star: :star: | Javascript |
 | Day 5  | :star: | | Javascript
-| Day 6  | | |
+| Day 6  | :star: :star: | Javascript |
 | Day 7  | | |
 | Day 8  | | |
 | Day 9  | | |
